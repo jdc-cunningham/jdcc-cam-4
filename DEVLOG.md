@@ -194,6 +194,8 @@ REEEEEEEEEE lmao I can't get this cursor to go away, it's mostly away
 
 But when you touch the screen it shows up very briefly and goes away again
 
+Since the menu is not clickable I'm going to have to have a thread that's listening for touch input then pass that on to the menu system
+
 ---
 
 ### 01/01/2025
