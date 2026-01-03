@@ -82,6 +82,54 @@ Yoooo there's a little mouse lmao
 
 I still don't understand how to control what is shown but this is something.
 
+9:03 PM
+
+It seems I have to use xrandr so installing that via `x11-xserver-utils`
+
+Okay I got it rotated with just `rotate -o left`
+
+The touch is not rotated
+
+Need `xinput`
+
+oohhhhh man's learninnnn
+
+`DISPLAY=:0 xinput`
+
+after it's running but I'm just trying to figure out what input to target
+
+https://askubuntu.com/questions/368317/rotate-touch-input-with-touchscreen-and-or-touchpad
+
+9:12 PM
+
+Still not working but the device name is `10-0014 Goodix Capacitive TouchScreen`
+
+Yeah when I move my thumb up in landscape mode the cursor goes left
+
+9:20 PM
+
+Tried rotating through boot firmare config file no dice
+
+9:32 PM
+
+Alright I got it, there was an error saying "device name shows up multiple times"
+
+I had to use the device ID
+
+So I've got custom window, rotated display and input
+
+I still don't know how to output something specific like a picture
+
+9:58 PM
+
+Okay I think I understand how this works
+
+You need to produce a window bare minimum.
+
+Then the GUI is in that, in my case it's just static images that change based on the menu state but also I can inject the camera frames for the live pass through.
+
+It seems like I can use OpenCV for it which seems overkill but if it works...
+
 ---
 
 ### 01/01/2025
