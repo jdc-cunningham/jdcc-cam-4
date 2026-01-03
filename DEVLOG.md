@@ -130,6 +130,44 @@ Then the GUI is in that, in my case it's just static images that change based on
 
 It seems like I can use OpenCV for it which seems overkill but if it works...
 
+10:01 PM
+
+I'm in the zone autozone baby
+
+I did think about what the OLED could show, it could show the settings of the camera or specific profiles
+
+10:20 PM
+
+Install pip
+
+need to pip install cv2, numpy
+
+sudo apt install python3-pip
+
+10:23 PM
+
+alright guess I'll setup a virtual environment, confusing with display vs. actual camera code
+
+python3 -m venv pelicam
+
+source pelicam/bin/activate
+
+pip install opencv-python
+
+Had to add this script type as it thinks it's shell
+
+10:36 PM
+
+deactivate to leave
+
+10:40 PM
+
+Cool we have a display!
+
+<img src="./devlog-images/opencv-gui.JPG"/>
+
+I'll get rid of the extra crap but yeah
+
 ---
 
 ### 01/01/2025
