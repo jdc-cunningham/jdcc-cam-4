@@ -1,7 +1,9 @@
 Tasks:
 
 - [ ] interface with waveshare 2.8" display (get pins)
+  - [x] get display working
   - [ ] figure out how to display a dynamic image-based menu with no OS GUI
+  - [ ] get coordinate click
 - [ ] interface with OLED (get pins)
 - [ ] interface with 5D make sure center click works (get pins)
 - [ ] interface with IMU (get pins)
@@ -17,6 +19,16 @@ I thought I was working today, dumb...
 Today I'll interface with the Waveshare display, I ordered another RPi HQ Cam and Pi 4B from Adafruit but still waiting for that.
 
 I'll use the other Pi 4 I have currently.
+
+8:01 PM
+
+Working on interfacing with the 2.8" waveshare DSI display, first try was a failure lol
+
+Trying to add dtoverlay from this thread [https://forums.raspberrypi.com/viewtopic.php?t=366011]
+
+`dtoverlay=vc4-kms-dsi-waveshare-panel,2_8_inch`to `/boot/firmware/config.txt`
+
+
 
 ### 01/01/2025
 
