@@ -188,7 +188,11 @@ https://bbs.archlinux.org/viewtopic.php?id=43947
 
 Although when you click it shows up, so I guess I'll have to do the transparent theme
 
+11:12 PM
 
+REEEEEEEEEE lmao I can't get this cursor to go away, it's mostly away
+
+But when you touch the screen it shows up very briefly and goes away again
 
 ---
 
