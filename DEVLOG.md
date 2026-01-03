@@ -34,6 +34,8 @@ OMG it's so beautiful!
 
 <img src="./devlog-images/waveshare-display-working.JPG"/>
 
+The DSI cable is nice, that means it doesn't use any GPIO pins
+
 ### 01/01/2025
 
 8:08 PM
