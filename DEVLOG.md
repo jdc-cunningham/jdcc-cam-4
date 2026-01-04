@@ -35,6 +35,18 @@ I'm working on the menu today, trying to get a working POC of the recursive fold
 
 It's not just the nesting that determines the menu structure it's the icons too if they click and how far that icon goes, how many "pages" it has
 
+I've been looking at vintage cine lenses, I'm imagining something where the lens is shiny silver and the body is beat up
+
+Also the lens is tiny compared to the body
+
+2:32 PM
+
+Something like this, I've probably seen something that I'm referencing/thinking off but the lens is tiny and offset compared to the body.
+
+<img src="./devlog-images/cam-concept.JPG"/>
+
+Anyway I need to work on the menu/camera software
+
 ### 01/03/2026
 
 6:25 PM
