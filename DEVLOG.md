@@ -77,7 +77,11 @@ Setting I2C to 1 in config.py
 
 I'm doing the GY-91 now which I've used in the pi-zero-hq cam so I should be able to just pull that
 
+11:36 PM
 
+I'm working on a video right now.
+
+At this point the hardware's all figured out. Now to design and 3D print/program the menu.
 
 ---
 
