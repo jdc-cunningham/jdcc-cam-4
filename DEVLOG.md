@@ -73,6 +73,10 @@ Okay I had my SDA/SCK pins backwards, I'm using i2c 1 for the OLED, I see it sho
 
 Setting I2C to 1 in config.py
 
+7:52 PM
+
+I'm doing the GY-91 now which I've used in the pi-zero-hq cam so I should be able to just pull that
+
 
 
 ---
