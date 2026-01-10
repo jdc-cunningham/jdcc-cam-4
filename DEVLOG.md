@@ -21,6 +21,18 @@ Tasks:
 - [ ] software
   - see [pelicam repo](https://github.com/jdc-cunningham/pelicam)
 
+### 01/10/2026
+
+5:26 PM
+
+I took the 25mm Revere-Scienar Anastigmat and I got some really great shots of buildings in bright sunny days. The contrasting colors... and video looks even better.
+
+But it made me think, I would consider designing two different camera bodies (one specifically for small cine-lenses the blue offset one) and then one for the C-mount to full frame adapters... that one would be more centered/bulky.
+
+So I'm going for this design more where it looks quirky
+
+<img src="./devlog-images/artsy-camera.png"/>
+
 ### 01/04/2026
 
 2:12 PM
